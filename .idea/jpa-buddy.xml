@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="d8917f95-ea54-4ae1-9d72-4fcc5bc91423" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/airline/entity" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="1dd77d94-9669-4f9a-b511-d62354dd84a5" />
+      <dbConnection id="d8917f95-ea54-4ae1-9d72-4fcc5bc91423" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="1dd77d94-9669-4f9a-b511-d62354dd84a5" />
+      <ignoreDs id="d8917f95-ea54-4ae1-9d72-4fcc5bc91423" />
+    </option>
+  </component>
+</project>

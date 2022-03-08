@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="spring-fx-hibernate" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="spring-fx-hibernate">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="$PROJECT_DIR$/src" />
+              <option name="dtoParentDirectory" value="$PROJECT_DIR$/src" />
+              <option name="entityPackageName" value="com.airline.entity" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src" />
+              <option name="mapperXmlParentDirectory" value="E:\Software-Const-Repo\spring-fx-hibernate\resources" />
+              <option name="repositoryPackageName" value="com.airline.com.airline.repository" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src" />
+              <option name="serviceParentDirectory" value="$PROJECT_DIR$/src" />
+              <option name="voParentDirectory" value="$PROJECT_DIR$/src" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="removeEntityPrefix" value="" />
+    <option name="removeFieldPrefix" value="" />
+  </component>
+</project>
